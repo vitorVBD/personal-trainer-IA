@@ -72,9 +72,9 @@ A primeira regra para personalizar o treino é determinar o biotipo corporal do 
 
 ---
 
-## 📅 Dias Disponíveis para Treino
+## 📅 Dias e Horas Disponíveis para Treino
 
-A segunda regra é determinar quantos dias por semana o usuário tem disponível para treinar. Dependendo do número de dias, o treino sugerido pode variar:
+A segunda e terceira regra é determinar quantos dias por semana e quantas horas por dia o usuário tem disponível para treinar. Dependendo do número de dias, o treino sugerido pode variar:
 
 | **Imagem**                                                     | **Dias por Semana** | **Tipo de Treino Sugerido** |
 | -------------------------------------------------------------- | ------------------- | --------------------------- |
@@ -108,10 +108,10 @@ A quarta regra envolve tipos de exercício. Aqui estão algumas categorias com e
 
 ## 🛠️ Regras de negócio
 
-1. **Identifique seu biotipo corporal** consultando a seção de biotipos.
-2. **Determine quantos dias por semana e horas por dia você pode treinar** e escolha o tipo de treino mais adequado.
-3. **Diga há quanto tempo você treina** se é Iniciante, Intermediário ou Avançado, para que o personal IA possa adequar a intensidade correta.
-4. **Selecione o seu objetivo** para que o personal IA possa adequar o seu treino.
+1. **Identifique seu biotipo corporal** consultando a seção de [biotipos](#-biotipos-corporais).
+2. **Determine quantos dias por semana e horas por dia você pode treinar** para seu treino se encaixar à sua rotina.
+3. **Diga há quanto tempo você treina**: se é Iniciante (0 a 6 meses de treino), Intermediário (6 meses a 2 anos de treino) ou Avançado (mais que 2 anos de treino), para que o personal IA possa adequar a intensidade correta.
+4. **Selecione o seu objetivo** para que o personal IA possa selecionar os melhores exercícios para você.
 5. **Diga se tem alguma lesão ou dor** para que o personal IA crie um treino seguro e adequado.
 6. Use o prompt do assistente para gerar um plano de treino personalizado.
 
