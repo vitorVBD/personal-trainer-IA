@@ -12,7 +12,7 @@
 
 <p align="center">
   <h3 align="center">🏋️‍♂️ Assistente de Personal Trainer - Gerador de Treino Ideal</h3>
-Este projeto é um desafio de Prompt Engineer, onde o objetivo é criar um prompt que ajuda a montar o treino ideal para cada combinação de fatores, como biotipo corporal, disponibilidade de tempo e tipo de exercícios preferidos. O assistente de personal trainer gerado por esse prompt será capaz de personalizar os treinos de acordo com as características e necessidades do usuário.
+Este projeto é um desafio de Prompt Engineer, onde o objetivo é criar um prompt que ajuda a montar o treino ideal para cada combinação de fatores, como biotipo corporal, disponibilidade de tempo e dias, objetivos a alcançar, experiência em tempo de treino e se tem lesões ou dores. O assistente de personal trainer gerado por esse prompt será capaz de personalizar os treinos de acordo com as características e necessidades do usuário.
 O projeto deve ser feito utilizando as boas práticas de prompt engineer.
 </p>
 
@@ -79,18 +79,22 @@ A segunda regra é determinar quantos dias por semana o usuário tem disponível
 | **Imagem**                                                     | **Dias por Semana** | **Tipo de Treino Sugerido** |
 | -------------------------------------------------------------- | ------------------- | --------------------------- |
 | <img src=".github/assets/calendar.png" width="50" height="50"> | 1 dia               | Treino Full Body            |
+| <img src=".github/assets/calendar.png" width="50" height="50"> | 2 dia               | Treino AB                   |
 | <img src=".github/assets/calendar.png" width="50" height="50"> | 3 dias              | Treino ABC                  |
+| <img src=".github/assets/calendar.png" width="50" height="50"> | 4 dias              | Treino ABCD                 |
 | <img src=".github/assets/calendar.png" width="50" height="50"> | 5 dias              | Treino ABCDE                |
 
 - **Full Body**: Treino que trabalha o corpo todo em uma única sessão.
+- **AB**: Divisão do treino em dois dias, cada um focado em grupos musculares diferentes.
 - **ABC**: Divisão do treino em três dias, cada um focado em grupos musculares diferentes.
+- **ABCDE**: Divisão do treino em quatro dias, com foco específico em cada grupo muscular.
 - **ABCDE**: Divisão do treino em cinco dias, com foco ainda mais específico em cada grupo muscular.
 
 ---
 
 ## 🏋️ Tipos de Exercícios
 
-A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão algumas categorias com exemplos:
+A quarta regra envolve tipos de exercício. Aqui estão algumas categorias com exemplos:
 
 | **Imagem**                                                       | **Tipo de Treino** | **Descrição**                                                                                                 |
 | ---------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------- |
@@ -105,9 +109,11 @@ A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão 
 ## 🛠️ Regras de negócio
 
 1. **Identifique seu biotipo corporal** consultando a seção de biotipos.
-2. **Determine quantos dias por semana você pode treinar** e escolha o tipo de treino mais adequado.
-3. **Selecione o tipo de exercício** que prefere realizar e que se encaixa melhor nos seus objetivos.
-4. Use o prompt do assistente para gerar um plano de treino personalizado.
+2. **Determine quantos dias por semana e horas por dia você pode treinar** e escolha o tipo de treino mais adequado.
+3. **Diga há quanto tempo você treina** se é Iniciante, Intermediário ou Avançado, para que o personal IA possa adequar a intensidade correta.
+4. **Selecione o seu objetivo** para que o personal IA possa adequar o seu treino.
+5. **Diga se tem alguma lesão ou dor** para que o personal IA crie um treino seguro e adequado.
+6. Use o prompt do assistente para gerar um plano de treino personalizado.
 
 ---
 
