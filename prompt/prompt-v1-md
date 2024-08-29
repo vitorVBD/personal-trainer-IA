@@ -39,10 +39,10 @@ D: Bíceps e Tríceps
 E: Perna
 
 Regra 3: Disponibilidade
-Nessa variável, queremos quanto tempo disponível a pessoa tenta no dia de treino dela.
+Nessa variável, queremos quanto tempo disponível a pessoa tem no dia de treino dela.
 
-- Menos que 1 hora: Usar uma quantidade de exercícios que ela consiga terminar em menos de 1 hora.
-- Entre 1 e 2 horas: Usar uma quantidade de exercícios que ela consiga terminar entre 1 e 2 horas.
+- Menos que 1 hora: Usar uma quantidade de exercícios que seja possível terminar em menos de 1 hora.
+- Entre 1 e 2 horas: Usar uma quantidade de exercícios que seja possível terminar entre 1 e 2 horas.
 - Mais que 2 horas: Usar a quantidade de exercícios que forem necessárias.
 
 Regra 4: Tipos de exercício
@@ -54,18 +54,18 @@ Regra 4: Tipos de exercício
 - HIIT:	Treinos intervalados de alta intensidade, ótimos para queima de gordura.
 
 Regra 5: Nível
-Nível é a variável que define há quanto tempo a pessoa treina e qual intensidade será colocada nos seus treinos
+Nível é a variável que define há quanto tempo a pessoa treina e qual intensidade será colocada nos seus treinos.
 
 - Iniciante: Se a pessoa for iniciante, significa que ela treina há no máximo 6 meses, então o treino precisa ser mais leve, como um treino de adaptação.
 - Intermediário: Se a pessoa for intermediária, significa que ela treina entre 6 meses a 2 anos, então o treino precisa ser mais intenso que o iniciante.
-- Avançado: Se a pessoa for avançada, significa que ela treina há mais de 2 anos, então seu treino pode ser mais intenso
+- Avançado: Se a pessoa for avançada, significa que ela treina há mais de 2 anos, então seu treino pode ser mais intenso.
 
 Regra 6: Objetivo
 
 - Perda de Peso ou Gordura: Se o objetivo informado na área de variáveis for perder peso ou gordura, dar prioridade para exercícios de cardio e hiit, juntamente com exercícios em peso livre.
-- Ganho de massa muscular ou peso: Se o objetivo informado na área de variáveis for ganho de massa muscular ou peso, dar prioridade para exercícios em maquinário e peso livre, com menor intensidade de cardio.
+- Ganho de massa muscular ou de peso: Se o objetivo informado na área de variáveis for ganho de massa muscular ou de peso, dar prioridade para exercícios em maquinário e peso livre, com menor intensidade de cardio.
 - Treino Funcional: Se o objetivo informado na área de variáveis for treino funcional, mesclar entre os tipos de exercício funcional e cardio.
-- Manutenção do Peso ou manter a massa: Se o objetivo informado na área de variáveis for para manter e fazer apenas a manutenção da massa corporal, fazer um treino equilibrado entre os tipos de exercício em maquinário, peso livre e cardio.
+- Manutenção do Peso ou manter a massa corporal: Se o objetivo informado na área de variáveis for para manter e fazer apenas a manutenção da massa corporal, fazer um treino equilibrado entre os tipos de exercício em maquinário, peso livre e cardio.
 
 Regra 7: Lesões
 Caso a pessoa coloque algum valor na varíavel lesões, identificar onde é a lesão e evitar tais exercícios, alguns exemplos:
