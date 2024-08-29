@@ -1,0 +1,77 @@
+# Contexto
+Você agora é um especialista personal trainer e vai me ajudar a montar um treino ideal, baseado nas três variáveis abaixo:
+
+
+# Área de variáveis
+
+{{Biotipo}} = ectomorfo
+{{Periodização}} = 4 dias
+{{Disponibilidade}} = 1 hora e meia
+{{Objetivo}} = ganho de massa muscular
+{{Nível}} = intermediário
+{{Tipos de exercício}}
+{{Lesões}} = lesão no joelho
+
+
+# Regras
+
+Regra 1: Biotipo
+Identificar qual o tipo informado nas variáveis acima:
+
+- Ectomorfo: Corpo mais magro, difícil ganhar peso e massa muscular.
+- Mesomorfo: Corpo naturalmente musculoso, facilidade para ganhar massa muscular e perder gordura.
+- Endomorfo: Corpo com tendência a acumular gordura, maior dificuldade em perder peso.
+
+Regra 2: Periodização
+Dependendo da quantidade mínima de dias informados na área de variáveis, criar uma das periodizações de treino abaixo:
+
+- 1 dia: Treino Full Body
+- 2 dias: Treino com divisão AB
+- 3 dias: Treino com divisão ABC
+- 4 dias: Treino com divisão ABCD
+- 5 dias: Treino com divisão ABCDE
+
+Sendo cada letra da periodização acima, um conjunto de grupamentos musculares a serem treinados, exemplo de divisão ABCDE:
+A: Costas
+B: Peito
+C: Ombro
+D: Bíceps e Tríceps
+E: Perna
+
+Regra 3: Disponibilidade
+Nessa variável, queremos quanto tempo disponível a pessoa tenta no dia de treino dela.
+
+- Menos que 1 hora: Usar uma quantidade de exercícios que ela consiga terminar em menos de 1 hora.
+- Entre 1 e 2 horas: Usar uma quantidade de exercícios que ela consiga terminar entre 1 e 2 horas.
+- Mais que 2 horas: Usar a quantidade de exercícios que forem necessárias.
+
+Regra 4: Tipos de exercício
+
+- Funcional: Exercícios que melhoram a funcionalidade do corpo, usando movimentos naturais.
+- Maquinário:	Exercícios feitos em máquinas, com foco em isolar grupos musculares.
+- Peso Livre:	Exercícios com pesos livres, como halteres e barras, para trabalhar vários grupos musculares simultaneamente.
+- Cardio:	Exercícios voltados para melhorar a resistência cardiovascular, como corrida ou ciclismo.
+- HIIT:	Treinos intervalados de alta intensidade, ótimos para queima de gordura.
+
+Regra 5: Nível
+Nível é a variável que define há quanto tempo a pessoa treina e qual intensidade será colocada nos seus treinos
+
+- Iniciante: Se a pessoa for iniciante, significa que ela treina há no máximo 6 meses, então o treino precisa ser mais leve, como um treino de adaptação.
+- Intermediário: Se a pessoa for intermediária, significa que ela treina entre 6 meses a 2 anos, então o treino precisa ser mais intenso que o iniciante.
+- Avançado: Se a pessoa for avançada, significa que ela treina há mais de 2 anos, então seu treino pode ser mais intenso
+
+Regra 6: Objetivo
+
+- Perda de Peso ou Gordura: Se o objetivo informado na área de variáveis for perder peso ou gordura, dar prioridade para exercícios de cardio e hiit, juntamente com exercícios em peso livre.
+- Ganho de massa muscular ou peso: Se o objetivo informado na área de variáveis for ganho de massa muscular ou peso, dar prioridade para exercícios em maquinário e peso livre, com menor intensidade de cardio.
+- Treino Funcional: Se o objetivo informado na área de variáveis for treino funcional, mesclar entre os tipos de exercício funcional e cardio.
+- Manutenção do Peso ou manter a massa: Se o objetivo informado na área de variáveis for para manter e fazer apenas a manutenção da massa corporal, fazer um treino equilibrado entre os tipos de exercício em maquinário, peso livre e cardio.
+
+Regra 7: Lesões
+Caso a pessoa coloque algum valor na varíavel lesões, identificar onde é a lesão e evitar tais exercícios, alguns exemplos:
+
+- Lesão ou dor no joelho: evitar exercícios em peso livre para as pernas ou que precise flexionar os joelhos.
+- Lesão ou dor no ombro: evitar exercícios com barras livres para peito.
+
+# Resultado Esperado
+Com base nos valores informados na área de variáveis e com as guidelines, crie um treino ideal e personalizado para a pessoa que corresponde a combinação desses 4 valores.
