@@ -122,8 +122,8 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 
 ## 🎯 Prompt de Resposta Proposto
 
-[Prompt](https://github.com/vitorVBD/personal-trainer-IA/blob/main/prompt/prompt-v1-md)
+- [Prompt](https://github.com/vitorVBD/personal-trainer-IA/blob/main/prompt/prompt-v1-md)
 
 ## 🤖 Exemplo de Resposta (ChatGPT)
 
-[Resposta](https://github.com/vitorVBD/personal-trainer-IA/blob/main/Resposta-ChatGPT/Resposta)
+- [Resposta](https://github.com/vitorVBD/personal-trainer-IA/blob/main/Resposta-ChatGPT/Resposta)
